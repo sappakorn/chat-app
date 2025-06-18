@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "100886085751",
+    "firebase_url": "https://mbk-mall-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mbk-mall",
+    "storage_bucket": "mbk-mall.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100886085751:android:90514ec922353e83bf8672",
+        "android_client_info": {
+          "package_name": "com.mbkmall.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100886085751-df7ob59dp7us3sb6249dh4lcq499mvlt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvGEhNOllt8fGmaBa8h5mmNKlzMtahtgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100886085751-df7ob59dp7us3sb6249dh4lcq499mvlt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "100886085751-064d5n59hijn3pcv741f8e3prhf75dum.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mbkmall.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100886085751:android:e9d7147ca171f457bf8672",
+        "android_client_info": {
+          "package_name": "io.mbkmall.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100886085751-df7ob59dp7us3sb6249dh4lcq499mvlt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvGEhNOllt8fGmaBa8h5mmNKlzMtahtgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100886085751-df7ob59dp7us3sb6249dh4lcq499mvlt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "100886085751-064d5n59hijn3pcv741f8e3prhf75dum.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mbkmall.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
